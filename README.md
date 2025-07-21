@@ -1,2 +1,3 @@
-# shovelsjeans.com
-Shovels &amp; Jeans
+# Shovels & Jeans
+
+> https://shovelsjeans.com
